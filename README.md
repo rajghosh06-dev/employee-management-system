@@ -31,6 +31,8 @@ ems.exe
 
 > These screenshots show employee data input, allowance calculation, and total salary breakdown from the CLI interface.
 
+## To View the Code
+[🔗 View Source Code (EMSv2.c)](EMSv2.c)
 
 
 ## Team Members:
