@@ -18,10 +18,13 @@ A CLI-based employee management tool built using linked lists in C. Handles dyna
 ```bash
 gcc -o ems ems.c
 ./ems
+```
 
 or On Windows
+```bash
 gcc ems.c -o ems.exe
 ems.exe
+```
 
 ## Team Members:
 - Rishit Ghosh
