@@ -23,11 +23,16 @@ or On Windows
 gcc ems.c -o ems.exe
 ems.exe
 
-**## Team Members:**
+## Team Members:
 - Rishit Ghosh
 - Sai Krishna
 - Shaik Zaheer Abbas
 - Karthik
 
-**## License**
+## Technologies Used
+- **Language:** C
+- **Concept:** Linked Lists
+- **Tools:** GCC compiler, VS Code
+
+## License
 This project is licensed under the [MIT License](LICENSE).
