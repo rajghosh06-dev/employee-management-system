@@ -30,7 +30,7 @@ ems.exe
 - Rishit Ghosh
 - Sai Krishna
 - Shaik Zaheer Abbas
-- Karthik
+- Y. Karthik
 
 ## Technologies Used
 - **Language:** C
