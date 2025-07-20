@@ -1,5 +1,4 @@
 # Employee Management System (C Language)
-
 A CLI-based employee management tool built using linked lists in C. Handles dynamic data entry, salary computation, and various payroll components like DA, TA, bonus, tax, and PF.
 
 ## Features
@@ -31,6 +30,7 @@ ems.exe
 
 > These screenshots show employee data input, allowance calculation, and total salary breakdown from the CLI interface.
 
+
 ## To View the Code
 [🔗 View Source Code (EMSv2.c)](EMSv2.c)
 
@@ -43,13 +43,15 @@ ems.exe
 
 ## Technologies Used
 - **Language:** C
-- **Concept:** Linked Lists
+- **Concept:** Linked Lists, Functions
 - **Tools:** GCC compiler, VS Code
 
 ## Future Improvements
 - Add file-based persistence to save employee data
 - Create GUI version using C++
 - Implement authentication for HR access
+
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
