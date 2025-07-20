@@ -37,5 +37,10 @@ ems.exe
 - **Concept:** Linked Lists
 - **Tools:** GCC compiler, VS Code
 
+## Future Improvements
+- Add file-based persistence to save employee data
+- Create GUI version using C++
+- Implement authentication for HR access
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
