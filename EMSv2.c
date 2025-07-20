@@ -1,9 +1,10 @@
 /*
-    PPS-2 PROJECT: V2
+    GEETHANJALI COLLEGE OF ENGINEERING AND TECHNOLOGY
+    Programming for Problem Solving - 2 [PPS-2] PROJECT(v2):
     EMPLOYEE MANAGEMENT SYSTEM (Using Linked List): 
     TEAM MEMBERS:
-        M. SAI KRISHNA
         RISHIT GHOSH
+        M. SAI KRISHNA
         SHAIK ZAHEER ABBAS
         Y. KARTHIK
 */
