@@ -26,6 +26,13 @@ gcc ems.c -o ems.exe
 ems.exe
 ```
 
+## Sample Output
+![EMS Demo Screenshot](screenshot/[EMSv2] Screenshot-1.png)
+![EMS Demo Screenshot](screenshot/[EMSv2] Screenshot-2.png)
+> Example run showing employee input and salary calculation CLI flow.
+
+
+
 ## Team Members:
 - Rishit Ghosh
 - Sai Krishna
