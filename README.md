@@ -25,11 +25,11 @@ or On Windows
 gcc ems.c -o ems.exe
 ems.exe
 ```
-
 ## Sample Output
-![EMS Demo Screenshot](screenshot/[EMSv2] Screenshot-1.png)
-![EMS Demo Screenshot](screenshot/[EMSv2] Screenshot-2.png)
-> Example run showing employee input and salary calculation CLI flow.
+![EMS Screenshot 1](screenshot/ems-screenshot-1.png)
+![EMS Screenshot 1](screenshot/ems-screenshot-2.png)
+
+> These screenshots show employee data input, allowance calculation, and total salary breakdown from the CLI interface.
 
 
 
