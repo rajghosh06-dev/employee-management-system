@@ -8,11 +8,6 @@ A CLI-based employee management tool built using linked lists in C. Handles dyna
 - Supports monthly and yearly salary views
 - Uses dynamic memory allocation with linked lists
 
-## Technologies Used
-- Language: C
-- Concept: Linked Lists
-- Tools: GCC compiler, VS Code
-
 ## How to Run
 ```bash
 gcc -o ems ems.c
@@ -50,7 +45,6 @@ ems.exe
 - Add file-based persistence to save employee data
 - Create GUI version using C++
 - Implement authentication for HR access
-
 
 
 ## License
